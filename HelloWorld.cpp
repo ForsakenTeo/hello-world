@@ -1,4 +1,6 @@
-#include "std_lib_facilities.h"
+#include <iostream>
+
+including namespace std;
 
 int main(){
 
